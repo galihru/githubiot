@@ -1,6 +1,10 @@
 # Documentation and Usage Guide GitHub IoT Arduino Module
 *Version 1.0.0 - February 24, 2025*
 
+<p align="center">
+  <img src="https://4211421036.github.io/githubiotpy/img/GitHub%20IoT%20Logo.png" alt="GitHubIoT Logo">
+</p>
+
 ## Introduction
 
 The `githubiot` library enables IoT devices based on ESP8266 or ESP32 microcontrollers to use GitHub as a data storage backend. This innovative approach eliminates the need for dedicated database servers while providing versioning capabilities, web accessibility, and integration with existing GitHub workflows.
