@@ -14,7 +14,7 @@
  * Documentation: https://github.com/username/arduino-github-iot/wiki
  * 
  * Dependencies:
- * - githubiot library (https://github.com/username/githubiot)
+ * - githubiot library (https://github.com/4211421036/githubiot)
  * - ArduinoJson library
  * - ESP8266WiFi library (for ESP8266) or WiFi library (for ESP32)
  *
