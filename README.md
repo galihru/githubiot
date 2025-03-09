@@ -2,7 +2,7 @@
 *Version 1.0.0 - February 24, 2025*
 
 <p align="center">
-  <img src="https://4211421036.github.io/githubiotpy/img/GitHub%20IoT%20Logo.png" alt="GitHubIoT Logo">
+  <img style="width: -webkit-fill-available;"src="https://4211421036.github.io/githubiotpy/img/GitHub%20IoT%20Logo.png" alt="GitHubIoT Logo">
 </p>
 
 ## Introduction
@@ -59,7 +59,7 @@ This library requires the following dependencies:
 ### Installation by Search Arduino IDE
 
 1. In the Arduino IDE, navigate to Library Manager > `GitHubIoT`
-2. Klik <mark style="background-color:blue;">INSTALL</mark>
+2. Klik <mark>INSTALL</mark>
 3. Restart the Arduino IDE
 
 ### Manual Installation
