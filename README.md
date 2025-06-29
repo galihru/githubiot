@@ -2,7 +2,7 @@
 *Version 1.0.0 - February 24, 2025*
 
 <p align="center">
-  <img style="width: -webkit-fill-available;"src="https://4211421036.github.io/githubiotpy/img/GitHub%20IoT%20Logo.png" alt="GitHubIoT Logo">
+  <img style="width: -webkit-fill-available;"src="https://galihru.github.io/githubiotpy/img/GitHub%20IoT%20Logo.png" alt="GitHubIoT Logo">
 </p>
 
 ## Introduction
@@ -84,7 +84,7 @@ Make sure to install all required dependencies using the Arduino Library Manager
 
 ## Integration GitHub Action
 > [!NOTE]
-> This module integration with GitHub Action Workflow. Please README Documentation at Repository [IoT GitHub](https://github.com/4211421036/iotgithub?tab=readme-ov-file)
+> This module integration with GitHub Action Workflow. Please README Documentation at Repository [IoT GitHub](https://github.com/galihru/iotgithub?tab=readme-ov-file)
 
 ### Usage Integration it
 > [!IMPORTANT]
@@ -95,7 +95,7 @@ Make sure to install all required dependencies using the Arduino Library Manager
 
 ```yml
 - name: Generate IoT Dashboard
-  uses: 4211421036/iotgithub@v1.0.1
+  uses: galihru/iotgithub@v1.0.1
   with:
     json_filename: 'data.json'
     html_filename: 'index.html'
